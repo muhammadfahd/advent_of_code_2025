@@ -16,9 +16,9 @@ This repo contains solutions for the the coding challenges of each day.
 
 | Day | Puzzle Overview | Main Logic | Question Link | Solution |
 |-----|----------------|------------|---------------|----------|
-| 1   | **Secret Entrance**: Safe password locked in a dial. Rotations like `L68`/`R48` determine how many times the dial points at 0. | Loops, counting, and modular arithmetic to track dial position and clicks at 0. | [Puzzle Link](https://adventofcode.com/2025/day/1) | Day 1 Solution |
-| 2   | **Finding the Correct ID**: Identify valid IDs from a list, filtering out invalid ones. | Loop through list of IDs, string checks, and conditional validation. | [Puzzle Link](https://adventofcode.com/2025/day/2) | Day 2 Solution|
-| 3   | **Largest Voltage**: Analyze sequences to find the largest voltage value; submit a single answer. | Loops, conditionals, and tracking maximum value from sequences. | [Puzzle Link](https://adventofcode.com/2025/day/3) | Day 3 Solution|
+| 1   | **Secret Entrance**: Safe password locked in a dial. Rotations like `L68`/`R48` determine how many times the dial points at 0. | Loops, counting, and modular arithmetic to track dial position and clicks at 0. | [Puzzle Link](https://adventofcode.com/2025/day/1) | [Day 1 Solution](https://github.com/muhammadfahd/advent_of_code_2025/tree/main/Day1-%20FInd%20the%20password) |
+| 2   | **Finding the Correct ID**: Identify valid IDs from a list, filtering out invalid ones. | Loop through list of IDs, string checks, and conditional validation. | [Puzzle Link](https://adventofcode.com/2025/day/2) | [Day 2 Solution](https://github.com/muhammadfahd/advent_of_code_2025/tree/main/Day2-%20Product%20Invalid%20ID's)|
+| 3   | **Largest Voltage**: Analyze sequences to find the largest voltage value; submit a single answer. | Loops, conditionals, and tracking maximum value from sequences. | [Puzzle Link](https://adventofcode.com/2025/day/3) | (Day 3 Solution)[https://github.com/muhammadfahd/advent_of_code_2025/tree/main/Day3-%20Battery%20Joltage]|
 | 4 | **Printing Document** involved Grids (2D Arrays)  | Loops,Array,Grid,Conditions | [Puzzle Link](https://adventofcode.com/2025/day/4) | Day 4 Solution 
 | 5 | **Cafeteria** working on range of ingridents id that are fresh | Loops, Conditions, slicing, parsing | [Puzzle Link](https://adventofcode.com/2025/day/5) | Day 5 Solution | 
 | 6 | **Trash Compactor** working on Column-wise parsing |  Dynamic operators, Vertical data extraction, Conditional math logic | [Puzzle Link](https://adventofcode.com/2025/day/6) | Day 6 Solution |
